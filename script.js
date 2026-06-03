@@ -24,5 +24,5 @@ botonCerrar.addEventListener('click', function() {
     musica.pause();
     
     // 3. Regresamos la canción al segundo 0 (al inicio)
-    musica.currentTime = 0;
+    musica.currentTime =0;
 });
